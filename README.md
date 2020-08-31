@@ -1,2 +1,2 @@
 # player
-Music and Video Player using React-Native Framework. 
+It's an Android Application of Music and Video Player using React-Native Framework. 
