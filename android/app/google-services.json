@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "541297625372",
+    "firebase_url": "https://audio-and-video-player-cd0dc.firebaseio.com",
+    "project_id": "audio-and-video-player-cd0dc",
+    "storage_bucket": "audio-and-video-player-cd0dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541297625372:android:8548628a20c37c65ea52d9",
+        "android_client_info": {
+          "package_name": "com.player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541297625372-v9ul64pm48erakbdedenbkaq967isard.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.player",
+            "certificate_hash": "4b69bde309194abbd053decc93012aa3cf44e57b"
+          }
+        },
+        {
+          "client_id": "541297625372-sc1n3029v2b1trcad9rurmqe2qsjocd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN6QnuGzG65d7PRMfAoOygWXXwVcvAF7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541297625372-sc1n3029v2b1trcad9rurmqe2qsjocd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
