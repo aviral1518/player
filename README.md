@@ -9,7 +9,7 @@ Features present in this repository:-
 
 3. Login and signup page is there for logging in the application. Uses Redux and Realm Database for state management, user login data and Theme management. 
 
-4. Attractive and User-Friendly Music player UI with customized play,pause,previous and forward button along with seek bar(Slider) and time elapsed and time remaining of a particular song.  
+4. Attractive and User-Friendly Music player UI with customized play,pause,previous and forward button along with seek bar(Slider) and time elapsed and time remaining text of a particular song.  
 
 5. Video Player has seek buttons which seeks the video 5 seconds forward and backward , fullscreen button , Slider, Play/Pause Button. 
 
